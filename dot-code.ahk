@@ -1,5 +1,6 @@
 ﻿#Requires AutoHotkey v2.0
 
+; This is the key combo.
 #!.::
 {
     ; Is the current window an Explorer window?
