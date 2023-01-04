@@ -2,6 +2,12 @@
 
 An [AutoHotKey](https://www.autohotkey.com/) script that launches VS Code with the open folder or selected files in File Explorer when you type `Alt-Win-.`.
 
+## Why?
+
+I use VS Code as my primary editor. I'm constantly in & out of code repos & single files, and I think the File Explorer context menu is a giant pain in the behind.
+
+This is just better: pick one or more artifacts and hit an easy key combo. Done!
+
 ## Installing `dot-code`
 
 1. Download & install AutoHotKey v2 from the [AHK home page]((https://www.autohotkey.com/)).
