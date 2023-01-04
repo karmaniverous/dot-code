@@ -10,7 +10,7 @@ This is just better: pick one or more artifacts and hit an easy key combo. Done!
 
 ## Installing `dot-code`
 
-1. Download & install AutoHotKey v2 from the [AHK home page]((https://www.autohotkey.com/)).
+1. Download & install AutoHotKey v2 from the [AHK home page](https://www.autohotkey.com/).
 
 1. Type `Win-R` and enter `shell:startup` in the dialog to open your startup apps folder.
 
