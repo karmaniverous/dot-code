@@ -2,7 +2,7 @@
 
 An [AutoHotKey](https://www.autohotkey.com/) script that launches VS Code with the open folder or selected files in File Explorer when you type `Alt-Win-.`.
 
-## Installing
+## Installing `dot-code`
 
 1. Download & install AutoHotKey v2 from the [AHK home page]((https://www.autohotkey.com/)).
 
@@ -12,8 +12,14 @@ An [AutoHotKey](https://www.autohotkey.com/) script that launches VS Code with t
 
 1. Restart your machine.
 
-## Using
+## Using `dot-code`
 
 Open a directory (say a code repository) in File Explorer. Type `Alt-Win-.` without selecting any files, and the entire directory will open in VS Code.
 
 Now select one or more files. When you type `Alt-Win-.`, only the selected files will open in VS Code.
+
+## Changing the HotKey
+
+The key combination is articulated in [this line](https://github.com/karmaniverous/dot-code/blob/f1a1a8e2d52fbce63cc9964834f564584ba98860/dot-code.ahk#L3) of the script, specifically the `#!.` before the trailing `::`.
+
+To change the key combo, just replace `#!.` with your own combo. See [the AutoHotKey docs](https://www.autohotkey.com/docs/v2/Hotkeys.htm) for more help.
