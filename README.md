@@ -26,6 +26,6 @@ Now select one or more files. When you type `Alt-Win-.`, only the selected files
 
 ## Changing the HotKey
 
-The key combination is articulated in [this line](https://github.com/karmaniverous/dot-code/blob/f1a1a8e2d52fbce63cc9964834f564584ba98860/dot-code.ahk#L3) of the script, specifically the `#!.` before the trailing `::`.
+The key combination is articulated in [this line](https://github.com/karmaniverous/dot-code/blob/a69919bb80c55caef8834d57475c7f1b3072e1c8/dot-code.ahk#L4) of the script, specifically the `#!.` before the trailing `::`.
 
 To change the key combo, just replace `#!.` with your own combo. See [the AutoHotKey docs](https://www.autohotkey.com/docs/v2/Hotkeys.htm) for more help.
