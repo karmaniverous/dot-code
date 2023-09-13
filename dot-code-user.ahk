@@ -34,8 +34,9 @@
         ; Restore the clipboard.
         A_Clipboard := clipboard     
         
-        ; Run code.
+        ; Run user installation.
         exe := '"' . StrReplace(A_AppData, "Roaming", "Local\Programs\Microsoft VS Code\code") . '"'
+        
         Run(exe . " " . path)
     }
 }

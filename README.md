@@ -14,7 +14,7 @@ This is just better: pick one or more artifacts and hit an easy key combo. Done!
 
 1. Type `Win-R` and enter `shell:startup` in the dialog to open your startup apps folder.
 
-1. Download [`dot-code.ahk`](./dot-code.ahk) and copy it into your startup apps folder.
+1. Do you have a User or System VS Code installation? Download either [`dot-code-user.ahk`](./dot-code-user.ahk) or [`dot-code-system.ahk`](./dot-code-system.ahk) and copy it into your startup apps folder.
 
 1. Restart your machine.
 
