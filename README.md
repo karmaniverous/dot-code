@@ -1,6 +1,6 @@
 # `dot-code` for Windows
 
-An [AutoHotKey](https://www.autohotkey.com/) script that launches VS Code with the open folder or selected files in File Explorer when you type `Alt-Win-.`.
+An [AutoHotKey](https://www.autohotkey.com/) script that launches VS Code from File Explorer when you type `Alt-Win-.`.
 
 ## Why?
 
