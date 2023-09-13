@@ -20,9 +20,11 @@ This is just better: pick one or more artifacts and hit an easy key combo. Done!
 
 ## Using `dot-code`
 
-Open a directory (say a code repository) in File Explorer. Type `Alt-Win-.` without selecting any files, and the entire directory will open in VS Code.
+Open a directory (say a code repository) in File Explorer. Type `Alt-Win-.` without selecting any files or subdirectories, and the entire directory will open in VS Code.
 
-Now select one or more files. When you type `Alt-Win-.`, only the selected files will open in VS Code.
+Open a parent directory containing multiple code repos. Select a repo folder, type `Alt-Win-.`, and only the selected repo will open in VS Code.
+
+Now open a repo and select one or more files. When you type `Alt-Win-.`, only the selected files will open in VS Code.
 
 ## Changing the HotKey
 
